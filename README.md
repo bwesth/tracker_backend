@@ -1,5 +1,5 @@
-Group ID: <br>
-Group Members:
+Group ID: 2 <br>
+Group Members: Rasmus de Neerdaard, Nicolai Mollerup, John Muller, Bjørn Westh
 
 Project: Backend server for Carbon Footprint Tracker
 
